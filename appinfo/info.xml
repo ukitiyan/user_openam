@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+    <id>user_openam</id>
+    <name>User OpenAM Backend</name>
+    <description>Authenticate users via OpenAM.</description>
+    <licence>AGPL</licence>
+    <author>Begood Technology Corp.</author>
+    <version>0.0.1</version>
+	<types>
+		<authentication/>
+	</types>
+    <requiremin>7</requiremin>
+</info>
